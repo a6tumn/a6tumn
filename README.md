@@ -9,18 +9,12 @@
 
 ---
 
-# 🌱 Projects
+# 🌱 Public Projects
 
-#### *Twilight (private)*
-> A rewrite of the popular Twilight Forest Minecraft mod for the Fabric Mod Loader.
-
-#### *[Liveroot](https://github.com/a6tumn/Liveroot) (public)*
+#### *[Livingwood](https://github.com/a6tumn/Livingwod)*
 > A KSP providing useful annotations for Minecraft modding.
 
-#### *Elysia (private)*
-> A config library and processor for Minecraft modding that uses intermediate representation to provide multiple config serialization options such as JSON, TOML, and YAML.
-
-#### *Moonworm (private)*
-> A fork of *Modmuss50's* *mod-publish-plugin* that strips out the platforms I don't use.
+#### *Elysia (coming-soon)*
+> A config library and processor for Minecraft modding that uses intermediate representation to provide multiple serialization options such as JSON, TOML, and YAML.
 
 ---
